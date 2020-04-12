@@ -1,5 +1,5 @@
 [package]
-name = "blog"
+name = "calculate"
 version = "0.1.0"
 authors = ["还不如一只猪威武 <liamxin@yeah.net>"]
 edition = "2018"
